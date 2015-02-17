@@ -1,0 +1,6 @@
+A->TB
+B->+TB|^
+T->FC
+C->*FC|^
+F->(A)|i
+EOF

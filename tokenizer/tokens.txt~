@@ -1,0 +1,23 @@
+Identifier: a frequency: 13
+literal: 23
+Identifier: b frequency: 8
+literal: 9
+literal: "Hello world\n"
+Identifier: c frequency: 7
+literal: 'e'
+literal: "rohith"
+literal: 56
+literal: "%d\n"
+Identifier: d frequency: 1
+literal: 1
+literal: 0
+Identifier: e frequency: 1
+literal: "Hello rohith\n"
+Identifier: n frequency: 2
+Identifier: p frequency: 5
+Identifier: q frequency: 8
+literal: 34.200000
+literal: 900.023000
+literal: 5
+Identifier: i frequency: 3
+literal: 0

@@ -1,0 +1,55 @@
+#include<stdio.h>
+#define M 56
+main()
+{
+int a=2,b=46,a=a&123;   
+a=23|-89;
+int b=0x1233a,c=0v1223;  // this is not literal +987
+float=12.1234540,g=456.654;
+char c='a';
+char a[20][70]={"rohith","is","wonderful","google"}
+for(i=12333;i<455556;i++)
+while(a>120120)
+char a[20]="rohith \n        killer";
+char b[20]="highprofile google"
+char c[20]="google \"rohith\"killer"
+printf("This number 456+450 is not literal");
+int p[5]={1,2,3,-4,5},b=90;
+a=a+236+456+789797;
+a=a|78;
+b=b&23;
+a=23+89-78/21*56;
+b=45&-89|45&-120;
+if(a<50.223)
+{
+	a=a+23;
+}
+if(a>=0.55656565)
+{
+	d=d-56;
+}
+if(a!=2.5)
+{
+	b=23.32;
+}
+else if(61&&32)
+{
+	
+}
+if(12346789)
+{
+	c=c+55;
+}
+if(a==45.32)
+{
+	c=c+2356;
+	c++;
+}
+a>=741;
+if(a<20.366)
+{
+	c=c-.33
+}
+a!=23;
+return 0;
+}

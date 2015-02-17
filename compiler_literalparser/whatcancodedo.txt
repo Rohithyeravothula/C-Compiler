@@ -1,0 +1,5 @@
+for loop
+while loop
+if else condition
+numbers;
+strings

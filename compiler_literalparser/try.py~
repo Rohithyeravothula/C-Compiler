@@ -1,0 +1,9 @@
+
+def chnum(n):
+	try:
+		p=int(n)
+		return 1
+	except:
+		return 0
+a="234"
+print chnum(a)

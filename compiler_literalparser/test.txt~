@@ -1,0 +1,8 @@
+#include<stdio.h>
+main()
+{
+int a=23;
+int b=0x1233a;
+char c='a';
+char a[20]="rohith";
+}

@@ -1,0 +1,11 @@
+testing mobile linux kernal(android operating system)
+as android is mobile version of linux, many modles of linux were simply put into android to deliver the product, but what about the bugs that were present in linux??
+this project will try and answer can android be used for real time simulation??
+
+this incudes:
+choose an operating system, get introduced to operating system
+1) understandin basics of kernal
+2) testing process scheduling and simulating few bugs
+3) testing aganist file system implementation and memory allocation and simulating few bugs 
+4) testing for resource leaking
+5) testing Deadlocks
